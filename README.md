@@ -9,7 +9,7 @@ disable it so that you don't need to remove every single call if you need it oft
 
 Just copy the file to where you want to use it. Include it via
 
-`include 'printR.class.php';`
+`include 'printR.class.php';` (or `printR.compact.php` if you need `printR()`)
 
 and you are ready to go.
 
@@ -46,7 +46,7 @@ once before you use it. Is is necessary for printR's design.
 ### PRO TIP
 
 If you need to call printR very fast, just call `printR($var)`. It will automatically include the styles and display
-the contens of the passed variable. ;)
+the contens of the passed variable. (Only available if you use `printR.compact.php`) ;)
 
 
 ## 4. LICENSE
