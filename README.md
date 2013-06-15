@@ -1,8 +1,8 @@
 # What is printR?
 
-printR is THE better print_r. How often do you need to know what the contents of a specific variable are? Right: often.
+**printR** is THE better `print_r`. How often do you need to know what the contents of a specific variable are? Right: often.
 Unfortunately PHP's `print_r` displays it's content only readable when you view the source code in your browser. It also is
-not styled so that it get's confusing the mroe content a variable has. printR solves all these problems. You can even
+not styled so that it get's confusing the more content a variable has. printR solves all these problems. You can even
 disable it so that you don't need to remove every single call if you need it often.
 
 ## 1. INSTALL
@@ -52,4 +52,5 @@ the contens of the passed variable. ;)
 ## 4. LICENSE
 
 Copyright (c) 2013 gidix.de. You can use it in whatever way you want. You are free to make modifications. Distributing
-modifications anywhere or the original on sites other than gidix.de, labs.gidix.de and bluefirex.de is prohibited.
+modifications anywhere or the original on sites other than gidix.de, labs.gidix.de, bluefirex.de and
+bluefirex' GitHub and BitBucket is prohibited.
