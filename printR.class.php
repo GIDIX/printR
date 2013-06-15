@@ -2,7 +2,7 @@
 	/**
 	 *	@author 	gidix.de (Benjamin Schmidt)
 	 * 	@since 		08.06.2013 18:51
-	 *	@version 	0.1
+	 *	@version 	0.2
 	 *	@copyright	See README.
 	 */
 
